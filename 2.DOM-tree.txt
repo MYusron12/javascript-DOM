@@ -1,0 +1,45 @@
+tipe node 
+- element
+- attribute
+- text
+- cdata section
+- entity reference
+- entity
+- processing instruction
+- comment
+- document
+- document type
+- document fragment
+- notation
+
+nodelist dan HTMLCollection
+
+node =  memilih 1 element
+nodelist = beberapa element dan text
+htmlcollection = kumpulan node yang tipenya element html
+
+NodeList vs HTMLCollection
+- keduanya merupakan kumpulan node
+- struktur data yang mirip array
+- nodelist dapat berisi node apapun, sedangkan htmlcollection harus berisi element html
+- htmlcollection bersifat live sedangkan nodelist tidak
+
+
+
+struktur hierarki DOM Tree
+- root node
+    - node yang menjadi sumber dari semua node lain didalam DOM
+    - document
+- parent node
+    - node yang berisi 1 tingkat di atas node lain
+    - body adalah parent dai h1, p, p, div, dan a
+- child node
+    - node yang berada 1 tingkat dibawah node lain
+    - h1 adalah child dari body
+
+
+
+
+
+
+
