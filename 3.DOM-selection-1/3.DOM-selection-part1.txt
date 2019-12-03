@@ -1,0 +1,16 @@
+DOM Selection Method
+
+- getElementById() menghasilkan element
+//memilih element dalam dom berdasarkan id
+
+- getEelementsByTagName() menghasilkan HTMLCollection
+// javascript tolong carikan saya yang berisi elemen2
+
+- getElementsByClassName() menghasilkan HTMLCollection
+// carikan elemen yang memiliki nama class tertentu
+
+- querySelector() menghasilakn element
+- querySelectorAll() menghasilkan nodeList
+// untuk mencari elemen berdasarkan selector
+
+
