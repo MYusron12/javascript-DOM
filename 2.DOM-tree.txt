@@ -32,7 +32,7 @@ struktur hierarki DOM Tree
     - document
 - parent node
     - node yang berisi 1 tingkat di atas node lain
-    - body adalah parent dai h1, p, p, div, dan a
+    - body adalah parent dari h1, p, p, div, dan a
 - child node
     - node yang berada 1 tingkat dibawah node lain
     - h1 adalah child dari body

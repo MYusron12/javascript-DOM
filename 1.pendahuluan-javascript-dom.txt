@@ -1,15 +1,20 @@
 DOM / document object model
-dom adalaj antarmuka pemrogaman untuk html yang mempersentasikan web sehingga program dapat mengubah dan memanipulasi strukturnya.
+DOM adalaj antarmuka pemrogaman untuk html yang mempersentasikan halaman web sehingga program dapat mengubah dan memanipulasi strukturnya "menurut mozila".
 
+Document adalah document web kita
+pada web browser terdapat document (isi dari websitenya)
 
-dom adalah reprensentasi elemen html pada dokumen menjadi sebuah object
+Object sebuah nilai atau tipe data pada java script, object mempunyai properti, dan mempunyai method serta function.
 
+Model repersentasi terhadap sesuatu
 
-didalam memori web, terdapat pohon hierarki dom
+DOM adalah reprensentasi elemen html pada dokumen menjadi sebuah object.
 
-dom
+didalam memori web, terdapat pohon hierarki dom (DOM Tree).
+
+DOM
 - antarmuka pemrograman bebasis objek yang mempersentasikan dokumen web
-- dom membuat seluruh komponen dari halaman web dapat diakses dan dimanipulasi
+- DOM membuat seluruh komponen dari halaman web dapat diakses dan dimanipulasi
 - komponen
     - elemen html
     - atribut

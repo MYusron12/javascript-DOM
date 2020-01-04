@@ -1,16 +1,17 @@
+untuk melakukan pemilihan element
 DOM Selection Method
 
-- getElementById() menghasilkan element
+- getElementById() / "menghasilkan element"
 //memilih element dalam dom berdasarkan id
 
-- getEelementsByTagName() menghasilkan HTMLCollection
+- getElementsByTagName() / "menghasilkan HTMLCollection"
 // javascript tolong carikan saya yang berisi elemen2
 
-- getElementsByClassName() menghasilkan HTMLCollection
+- getElementsByClassName() / "menghasilkan HTMLCollection"
 // carikan elemen yang memiliki nama class tertentu
 
-- querySelector() menghasilakn element
-- querySelectorAll() menghasilkan nodeList
+- querySelector() / "menghasilakn element"
+- querySelectorAll() / "menghasilkan nodeList"
 // untuk mencari elemen berdasarkan selector
 
 
