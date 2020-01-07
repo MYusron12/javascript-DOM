@@ -3,7 +3,18 @@
 
 
 Manipulasi Element
-- element.innerHTML
-- element.style.<propertiCSS>
+- element.innerHTML //mengubah isi dari sebuah text pada html
+- element.style.<propertiCSS> //mengubah style css
 - element.setAttribute()
 - element.classList
+
+
+Manipulasi Node
+- document.createElement()
+- document.createTextNode()
+- node.appendChild()
+- node.insertBefore()
+- parentNode.removeChild()
+- parentNode.replaceChild()
+
+
