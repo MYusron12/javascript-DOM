@@ -1,0 +1,22 @@
+Event pada javascript adlah untuk merepresentasikan sebuah kejadian di dalam DOM
+kejadian tersebut bisa dilakukan oleh user
+(mouse event, keyboard event, dll)/ semua kejadian yang dilakukan oleh user
+
+ataupun dilakukan secara otomatis oleh API
+(animasi selesai dijalankan, halaman selesai di load, dll)
+
+cara mendengarkan event
+- event handler
+    - inline HTML attribute //menambahkan attribut html sevara inline
+    - element method //menggunakan method untuk element yg kita seleksi
+- addEventListener()
+
+Event Handler
+cara memanggilnya adalah menggunakan keyword on lalu diikuti dengan event nya.
+
+perbedaannya?
+ketika memberikan lebih dari 1 perubahan pada event, ketika kita menggunakan event handler perubahan yg dilakukan akan menimpa perubahan sebelumnya. menggunakan addeventlistener dai akan menambah perubahannya.
+
+
+event list pada javascript
+https://developer.mozilla.org/en-US/docs/Web/Events
