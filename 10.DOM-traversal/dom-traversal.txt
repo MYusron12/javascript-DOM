@@ -1,0 +1,9 @@
+DOM traversal atau penelusuran DOM
+penelusuran berdasarkan dom tree
+menggunakan DOM SELECTION, meneyeleksi sebuah elemen lalu memilih elemen yang lain berdsarkan elemen yg kita pilih di awal.
+pemahaman konsep silsilah keluarga pada node
+
+method dom-traversal
+- parentNode
+- parentElement
+- nextSibling
